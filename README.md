@@ -19,4 +19,4 @@ Este proyecto utiliza las siguientes dependencias:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pokemon-api-flutter.git
+ git@github.com:davidethc/Http-metodos-dio.git
