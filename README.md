@@ -17,6 +17,6 @@ Este proyecto utiliza las siguientes dependencias:
 
 ## Instalación
 
-1. Clona el repositorio:
+1. Clona el repositorio:  git@github.com:davidethc/Http-metodos-dio.git
+
    ```bash
- git@github.com:davidethc/Http-metodos-dio.git
